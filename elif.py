@@ -1,0 +1,11 @@
+a=5
+	ifa<3:
+	  print(a)
+	elifa<2:
+	  print(a)
+	elifa==6:
+	  print(a)
+	elifa==7:
+	   print(a)
+	else:
+	  print("fail")
